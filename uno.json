@@ -29,7 +29,7 @@
     "body": {
       "header": {
         "menu": {
-          "text": "View JSON",
+          "text": "Google",
           "href": {
             "url": "https://github.com/Jasonette/Jasonpedia/blob/gh-pages/view/footer/input.json",
             "view": "web"
