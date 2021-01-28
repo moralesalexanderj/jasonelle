@@ -31,9 +31,10 @@
         "menu": {
           "text": "Google",
           "href": {
-            "url": "https://github.com/Jasonette/Jasonpedia/blob/gh-pages/view/footer/input.json",
+            "url": "https:/www.google.com",
             "view": "web"
-          }
+          },
+          "size": 20
         }
       },
       "footer": {
