@@ -1,7 +1,7 @@
 {
   "$jason": {
     "head": {
-      "title": "Input Footer",
+      "title": "Ingrese Búsqueda",
       "styles": {
         "bold": {
           "font": "HelveticaNeue-CondensedBold",
@@ -40,15 +40,15 @@
       "footer": {
         "input": {
           "left": {
-            "image": "https://s3.amazonaws.com/www.textcast.co/icons/cam%402x.png",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png",
             "action": {
               "type": "$media.camera"
             }
           },
           "name": "message",
-          "placeholder": "Say something...",
+          "placeholder": "Palabra clave...",
           "right": {
-            "text": "Send",
+            "text": "Buscar",
             "action": {
               "trigger": "send"
             }
