@@ -20,8 +20,8 @@
         "send": {
           "type": "$util.alert",
           "options": {
-            "title": "Message",
-            "description": "{{$get.message}}"
+            "title": "Malamaña",
+            "description": "Iniciando Búsqueda de {{$get.message}} en nuestro Catálogo."
           }
         }
       }
