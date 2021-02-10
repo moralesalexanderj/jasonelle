@@ -29,9 +29,9 @@
     "body": {
       "header": {
         "menu": {
-          "text": "Google",
+          "text": "Malamaña.com.ve",
           "href": {
-            "url": "https:/www.google.com",
+            "url": "https:/www.malamaña.com.ve",
             "view": "web"
           },
           "size": 20
