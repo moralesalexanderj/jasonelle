@@ -37,7 +37,7 @@
           "size": 20
         }
       },
-    "sections": [
+      "sections": [
         {
           "type": "horizontal",
           "style": {
@@ -131,10 +131,35 @@
                     }
                   ]
                 }
-              }
+              },
+              "type": "label",
+              "text": "$util.picker"
+            },
+            {
+              "class": "padded",
+              "action": {
+                "type": "$util.datepicker",
+                "success": {
+                  "type": "$util.banner",
+                  "options": {
+                    "title": "Selected time is",
+                    "description": "{{(new Date(parseInt($jason.value) * 1000)).toString()}}"
+                  }
+                }
+              },
+              "type": "label",
+              "text": "$util.datepicker"
+            },
+            {
+              "class": "padded",
+              "href": {
+                "url": "https://jasonette.github.io/Jasonpedia/action/addressbook.json"
+              },
+              "type": "label",
+              "text": "$util.addressbook"
             }
-          }
-       },
+          ]
+        },
       "footer": {
         "input": {
           "left": {
