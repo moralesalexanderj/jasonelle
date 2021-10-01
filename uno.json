@@ -1,7 +1,7 @@
 {
   "$jason": {
     "head": {
-      "title": "Catálogo de Productos",
+      "title": "Menú",
       "styles": {
         "bold": {
           "font": "HelveticaNeue-CondensedBold",
@@ -29,7 +29,7 @@
     "body": {
       "header": {
         "menu": {
-          "text": "Malamaña.com.ve",
+          "text": "Donalicicious.com",
           "href": {
             "url": "https:/www.malamaña.com.ve",
             "view": "web"
