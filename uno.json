@@ -11,6 +11,9 @@
         "normal": {
           "font": "HelveticaNeue",
           "size": "12"
+        },
+        "background": {
+          "image": "https://lh3.googleusercontent.com/p/AF1QipMzOlyQKT72nb8O_-Wh7CNXtSJZduZF5LXdBnG8=w768-h768-n-o-v1"
         }
       },
       "actions": {
