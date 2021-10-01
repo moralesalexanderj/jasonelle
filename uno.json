@@ -20,7 +20,7 @@
         "send": {
           "type": "$util.alert",
           "options": {
-            "title": "Malamaña",
+            "title": "Donalicious",
             "description": "Iniciando Búsqueda de {{$get.message}} en nuestro Catálogo."
           }
         }
@@ -29,9 +29,9 @@
     "body": {
       "header": {
         "menu": {
-          "text": "Donalicicious.com",
+          "text": "Donalicious.com",
           "href": {
-            "url": "https:/www.malamaña.com.ve",
+            "url": "https:/www.donalicious.com",
             "view": "web"
           },
           "size": 20
