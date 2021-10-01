@@ -1,7 +1,10 @@
 {
   "$jason": {
     "head": {
-      "title": "Menú",
+      "title": {"MMenú"
+        type: "text"
+        
+      },
       "styles": {
         "bold": {
           "font": "HelveticaNeue-CondensedBold",
