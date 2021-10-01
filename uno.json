@@ -30,6 +30,7 @@
     },
     "body": {
       "header": {
+        "title":"Menú",
         "menu": {
           "text": "Donalicious.com",
           "href": {
