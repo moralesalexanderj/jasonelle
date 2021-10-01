@@ -40,7 +40,7 @@
           "size": 20
         }
       },
-      "sections[{
+      "sections":[{
     "items": [
       {
         "type": "label",
