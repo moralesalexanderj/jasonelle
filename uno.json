@@ -40,6 +40,48 @@
           "size": 20
         }
       },
+      "sections[{
+    "items": [
+      {
+        "type": "label",
+        "text": "Label only item"
+      },
+      {
+        "type": "vertical",
+        "components": [
+          {
+            "type": "image",
+            "url": "https://jasonclient.org/img/john.png"
+          },
+          {
+            "type": "label",
+            "text": "John"
+          },
+          {
+            "type": "label",
+            "text": "Doe"
+          }
+        ]
+      },
+      {
+        "type": "vertical",
+        "components": [
+          {
+            "type": "image",
+            "url": "https://jasonclient.org/img/mary.png"
+          },
+          {
+            "type": "label",
+            "text": "Mary"
+          },
+          {
+            "type": "label",
+            "text": "Jane"
+          }
+        ]
+      }
+    ]
+  }],
       "footer": {
         "input": {
           "left": {
