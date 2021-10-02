@@ -27,9 +27,9 @@
     },
     "body": {
       "header": {
-        "title":"Menu",
+        "title":"Donalicious",
         "menu": {
-          "text": "Donalicious.com",
+          "text": "Menú",
           "href": {
             "url": "https:/www.donalicious.com",
             "view": "web"
