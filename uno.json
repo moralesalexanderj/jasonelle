@@ -61,7 +61,7 @@
             "type": "vertical",
             "components": [{
               "type": "image",
-              "url": "https://jasonclient.org/img/mary.png"
+              "url": "https://firebasestorage.googleapis.com/v0/b/tienda-mx.appspot.com/o/OBHKFSX1eEaNYvi1izy8zGCG1hF2%2Flogo?alt=media&token=834f0aa4-93ac-42ed-aa6a-e41473a76b7c"
             },
               {
                 "type": "label",
@@ -76,7 +76,7 @@
       "footer": {
         "input": {
           "left": {
-            "image": "https://xn--malamaa-9za.com.ve/wp-content/uploads/2020/02/mln-logo-principal-web.png",
+            "image": "https://firebasestorage.googleapis.com/v0/b/tienda-mx.appspot.com/o/OBHKFSX1eEaNYvi1izy8zGCG1hF2%2Flogo?alt=media&token=834f0aa4-93ac-42ed-aa6a-e41473a76b7c",
             "action": {
               "type": "$media.camera"
             }
